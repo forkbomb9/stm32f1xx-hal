@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+### Changed
+
+- Bump `nb` dependency (`1.0.0`)
+
 ## [v0.6.1] - 2020-06-25
 
 ### Added
